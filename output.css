@@ -534,139 +534,15 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.my-48 {
-  margin-top: 12rem;
-  margin-bottom: 12rem;
-}
-
-.flex {
-  display: flex;
-}
-
-.h-40 {
-  height: 10rem;
-}
-
 .h-screen {
   height: 100vh;
-}
-
-.w-auto {
-  width: auto;
-}
-
-.w-1\/2 {
-  width: 50%;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .grow {
   flex-grow: 1;
 }
 
-.flex-col {
-  flex-direction: column;
-}
-
-.flex-col-reverse {
-  flex-direction: column-reverse;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.justify-between {
-  justify-content: space-between;
-}
-
-.bg-yellow {
-  --tw-bg-opacity: 1;
-  background-color: hsl(51 100% 49% / var(--tw-bg-opacity));
-}
-
-.bg-\[url\(\'images\/mobile\/image-header\.jpg\'\)\] {
-  background-image: url('images/mobile/image-header.jpg');
-}
-
-.bg-\[url\(\'images\/mobile\/image-transform\.jpg\'\)\] {
-  background-image: url('images/mobile/image-transform.jpg');
-}
-
-.bg-cover {
-  background-size: cover;
-}
-
-.bg-bottom {
-  background-position: bottom;
-}
-
-.bg-no-repeat {
-  background-repeat: no-repeat;
-}
-
-.px-8 {
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
-
-.py-12 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.pb-72 {
-  padding-bottom: 18rem;
-}
-
-.text-center {
-  text-align: center;
-}
-
 .font-sans {
   font-family: Barlow, sans-serif;
-}
-
-.font-serif {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-}
-
-.text-8xl {
-  font-size: 6rem;
-  line-height: 1;
-}
-
-.uppercase {
-  text-transform: uppercase;
-}
-
-.text-white {
-  --tw-text-opacity: 1;
-  color: hsl(0 0% 100% / var(--tw-text-opacity));
-}
-
-@media (min-width: 768px) {
-  .md\:w-1\/2 {
-    width: 50%;
-  }
-
-  .md\:flex-row {
-    flex-direction: row;
-  }
-
-  .md\:flex-col-reverse {
-    flex-direction: column-reverse;
-  }
-
-  .md\:bg-\[url\(\'images\/mobile\/image-header\.jpg\'\)\] {
-    background-image: url('images/mobile/image-header.jpg');
-  }
-
-  .md\:bg-\[url\(\'images\/desktop\/image-header\.jpg\'\)\] {
-    background-image: url('images/desktop/image-header.jpg');
-  }
 }
 
